@@ -1,0 +1,16 @@
+h1{
+    font-family: "Noto Sans SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-size:60px;
+  text-align:center;
+  background-color:red
+  
+}
+
+body{
+  background-color: blueviolet;
+}
+div{
+  text-align: center;
+}
